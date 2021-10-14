@@ -1,1 +1,4 @@
-# data_mining_unicamp
+## Curso de Aperfeiçoamento
+
+# Fundamentos de Mineração de Dados
+
