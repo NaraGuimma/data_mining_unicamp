@@ -1,4 +1,4 @@
-## Curso de Aperfeiçoamento
+# Curso de Aperfeiçoamento
 
-# Fundamentos de Mineração de Dados
+## Fundamentos de Mineração de Dados
 
